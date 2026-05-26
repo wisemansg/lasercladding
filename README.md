@@ -1,5 +1,16 @@
 # 🏗️ Project Management Dashboard (2019–2020)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20Query-217346?logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-0F6CBD?logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel%20%2F%20CSV-1D6F42?logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business%20Intelligence-5E35B1?logo=databricks&logoColor=white" />
+</p>
+
+---
+
 This dashboard analyzes project management performance in Nigeria between 2019 and 2020 using project-level data. The years are derived directly from the start, end, and planned dates in the dataset (e.g., start dates range from January 19, 2019, to October 1, 2020; end dates from March 12, 2019, to December 12, 2020; planned dates from February 21, 2019, to December 31, 2020). The goal is to evaluate budget utilization, project health, completion rates, and operational dynamics while identifying strategic improvement opportunities for project stakeholders.
 
 ## 🎯 Project Objective
